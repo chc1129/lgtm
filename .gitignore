@@ -1,0 +1,3 @@
+# 下記URLの内容を.gitignoreという名前でファイルに保存
+# 環境に応じてキーワードを変えたり内容を編集する
+https://www.gitignore.io/api/macos,python
