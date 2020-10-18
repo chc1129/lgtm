@@ -42,7 +42,6 @@ pyperclip==1.7.0
 PyRect==0.1.4
 PyScreeze==0.1.26
 pyserial==3.4
-python-apt==1.6.5+ubuntu0.3
 python-debian==0.1.32
 python-xlib==0.26
 python3-xlib==0.15
