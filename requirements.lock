@@ -22,7 +22,6 @@ jsonpointer==1.10
 jsonschema==2.6.0
 keyring==10.6.0
 keyrings.alt==3.0
-lgtm==1.0.0
 MarkupSafe==1.0
 MouseInfo==0.1.2
 mpmath==1.1.0
