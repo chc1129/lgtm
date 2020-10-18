@@ -35,7 +35,6 @@ pyasn1-modules==0.2.1
 PyAutoGUI==0.9.48
 pycrypto==2.6.1
 PyGetWindow==0.0.8
-pygobject==3.26.1
 PyJWT==1.5.3
 PyMsgBox==1.0.7
 pyOpenSSL==17.5.0
